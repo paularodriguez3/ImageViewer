@@ -24,8 +24,8 @@ Se trata de un visor de imágenes desarrollado en Java con tres paquetes princip
 
 ## **A tener en cuenta para su uso**
 
-En el archivo Main.java, actualiza la siguiente línea con la ruta completa del directorio que contiene tus imágenes:
+En el archivo Main.java, actualiza la siguiente línea con la ruta completa del directorio que contiene las imágenes:
 ```java
-File folder = new File("RUTA_DE_TUS_IMAGENES");
+File folder = new File("ruta_imagenes");
 ```
 Asegúrate de que el directorio tenga imágenes en formato .jpg.
