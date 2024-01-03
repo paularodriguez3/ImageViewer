@@ -4,20 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5e0c11b-ea97-4bb9-b9d5-201314a70543" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/ImageDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/ImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/ImagePresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/mocks/MockImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/swing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/swing/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/swing/SwingImageDisplay.java" afterDir="false" />
+    <list default="true" id="a5e0c11b-ea97-4bb9-b9d5-201314a70543" name="Changes" comment="First commit.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/control/ImageAccessCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/control/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/control/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/model/FileImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/model/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/model/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/model/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/model/VirtualImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/view/ImageDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/view/SwingImageDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/ImageDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/ImageLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/ImagePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/mocks/MockImageLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/swing/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/swing/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/imageviewer/swing/SwingImageDisplay.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704306019272</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit.">
+      <option name="closed" value="true" />
+      <created>1704306819806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704306819806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
   </component>
 </project>
